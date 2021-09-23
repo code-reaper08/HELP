@@ -1,0 +1,50 @@
+#navbarNav > ul {
+    padding-right: 50px;
+}
+body {
+    background-color: #212529;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body > nav{
+    box-shadow: 1px -2px 20px 0px #f8951e38;
+
+}
+h1 {
+    text-align: center;
+   
+}
+.gwoc {
+    color: #fba52a;
+}
+#content {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #fba52a;
+}
+a:hover {
+    color: #f79000;
+}
+code {
+    font-size: larger;
+    color: blueviolet;
+    background-color: black;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+}
+.stephead {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.stepsdiv {
+    background-color: black;
+    padding: 10px 5px 10px 5px;
+    color: white;
+    border-radius: 20px;
+}
+#start_contribution {
+    width: 20vw;
+    height: auto;
+}
